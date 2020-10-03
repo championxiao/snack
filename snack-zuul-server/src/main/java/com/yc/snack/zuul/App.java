@@ -1,4 +1,4 @@
-package com.yc.snack.server;
+package com.yc.snack.zuul;
 
 /**
  * Hello world!

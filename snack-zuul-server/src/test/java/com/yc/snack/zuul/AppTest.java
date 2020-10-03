@@ -1,4 +1,4 @@
-package com.yc.snack.server;
+package com.yc.snack.zuul;
 
 import junit.framework.Test;
 import junit.framework.TestCase;
